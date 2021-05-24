@@ -61,5 +61,6 @@ This project consists of the use of a PIC16F15244 Curiosity Nano, in order to ca
 
 #  How to use
 
+It is connected in such a way that the pic is fed with 5 volts (it can be connected to the computer or with an adapter) after this, when the first lemon passes, its respective count will begin and when it reaches a total of 10 lemons , the part of packages will increase.
 
 
